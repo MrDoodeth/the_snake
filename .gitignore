@@ -133,3 +133,6 @@ dmypy.json
 .deployment
 
 .idea
+
+# Local temporary files for dependency installation
+.tmp/
